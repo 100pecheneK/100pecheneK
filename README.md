@@ -1,8 +1,8 @@
 <h2> Hi, I'm Misha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <p>I’m currently working on typescript <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
-<p>🌱 I’m currently learning typescript and redux-saga</p>
-<p>🤔 I’m looking for help with react typescript</p>
-<p>💬 Ask me about react, typescript, javascript, nodejs, express, nextjs, python, django</p>
+<p>🌱 I’m currently learning typescript and golang</p>
+<p>🤔 I’m looking for help with react typescript and golang</p>
+<p>💬 Ask me about react, typescript, javascript, nodejs, golang, express, nextjs, python, django</p>
 
 ⚡ Technologies
 
